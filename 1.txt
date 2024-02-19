@@ -1,1 +1,1 @@
-new row in 1.txt file
+and again changes in this file
